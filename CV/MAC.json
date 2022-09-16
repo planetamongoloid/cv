@@ -1,0 +1,501 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alexander",
+      "surnames": "Lopez Zabala",
+      "description": "After years of developing web and interactive applications y decided to get the route of SRE/Devops",
+      "avatar": {
+        "alt": "al-removebg-preview.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/2e102fec-b6a0-4964-a04b-3f511d8396cb_al-removebg-preview.png"
+      },
+      "location": {
+        "country": "España",
+        "region": "País Vasco",
+        "municipality": "Bilbao"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alexander-lopez-zabala-171a57141/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Irontec",
+          "image": {
+            "alt": "irontec-logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/12cfcba1-4865-4c0f-9f53-4836aca3f304_irontec-logo.jpg"
+          },
+          "URL": "https://www.irontec.com/"
+        },
+        "roles": [
+          {
+            "name": "SRE / Devops Engineer",
+            "startDate": "2020-01-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
+                "name": "Cloud Private",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "K8s",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Swarm",
+                "type": "technology"
+              },
+              {
+                "name": "YAML",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Irontec",
+          "image": {
+            "alt": "irontec-logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/86cadba0-8896-442f-8a13-e68caf63b09c_irontec-logo.jpg"
+          },
+          "URL": "https://www.irontec.com/"
+        },
+        "roles": [
+          {
+            "name": "Senior Backend Developer",
+            "startDate": "2018-11-01",
+            "finishDate": "2020-01-01",
+            "competences": [
+              {
+                "name": "CakePHP",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Laravel",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Swarm",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Andtonic SL",
+          "image": {
+            "alt": "logo-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/a14b55c4-ea0b-4eac-b8a3-0a98801ac809_logo-1.png"
+          },
+          "URL": "https://www.andtonic.es"
+        },
+        "roles": [
+          {
+            "name": "Cto",
+            "startDate": "2017-01-01",
+            "finishDate": "2018-07-01",
+            "challenges": [
+              {
+                "description": "Web and electronic proyect director.  "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Arduino",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Raspberry",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Freelance",
+            "startDate": "2012-01-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": " Full-stack web developer, and interactive installation developer."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "Arduino",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Raspberry",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Waskman diseño",
+          "image": {
+            "alt": "logo_capcalera.gif",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/f69209cc-43ca-4006-bdc6-35e2789d64b1_logo_capcalera.gif"
+          },
+          "URL": "http://www.waskman.com/"
+        },
+        "roles": [
+          {
+            "name": "FullStack developer",
+            "startDate": "2007-01-01",
+            "finishDate": "2012-12-01",
+            "challenges": [
+              {
+                "description": "Full-stack developer in web projects as well as interactive installation developer, involving hardware installations. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Arduino",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "OpenCV",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Raspberry",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Click&Game"
+        },
+        "roles": [
+          {
+            "name": "Internet Cafe admin",
+            "startDate": "2004-01-01",
+            "finishDate": "2004-12-01",
+            "challenges": [
+              {
+                "description": "I worked as an internet cafe admin while studying in the university. "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ziv Automation",
+          "URL": "https://zivautomation.com"
+        },
+        "roles": [
+          {
+            "name": "Electronic technician",
+            "startDate": "2002-01-01",
+            "finishDate": "2002-10-01"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Basque"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Arduino",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jenkins",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Advanced Certificate in English",
+        "startDate": "2001-01-01",
+        "institution": {
+          "name": "University of Cambridge"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Network engineering",
+        "startDate": "2003-01-01",
+        "finishDate": "2007-12-01",
+        "institution": {
+          "name": "University of Deusto",
+          "URL": "https://www.deusto.es"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher technical diploma, Telecommunication and Computer Systems",
+        "startDate": "1999-01-01",
+        "finishDate": "2001-12-01",
+        "institution": {
+          "name": "Politeknika Ikastegia Txorierri ",
+          "URL": "http://www.txorierri.net/en/"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alexander-lopez-zabala-171a57141/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "GitLab",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}

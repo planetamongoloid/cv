@@ -449,7 +449,11 @@
         "name": "Advanced Certificate in English",
         "startDate": "2001-01-01",
         "institution": {
-          "name": "University of Cambridge"
+          "name": "University of Cambridge",
+          "image": {
+            "alt": "1519856098280.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/d40ed05a-927e-486a-8298-ca99a9b6309c_1519856098280.jpeg"
+          }
         }
       },
       {

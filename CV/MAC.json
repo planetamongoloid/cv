@@ -460,7 +460,11 @@
         "finishDate": "2007-12-01",
         "institution": {
           "name": "University of Deusto",
-          "URL": "https://www.deusto.es"
+          "URL": "https://www.deusto.es",
+          "image": {
+            "alt": "Screenshot from 2022-09-17 12-56-17.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/a94d0aa7-3e1b-47c8-942b-b7603f45d880_screenshot-from-2022.png"
+          }
         }
       },
       {

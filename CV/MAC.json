@@ -346,6 +346,10 @@
       {
         "organization": {
           "name": "Ziv Automation",
+          "image": {
+            "alt": "ziv-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/ae326f5d-643c-48d3-948e-68c2770a7a74_ziv-logo.png"
+          },
           "URL": "https://zivautomation.com"
         },
         "roles": [

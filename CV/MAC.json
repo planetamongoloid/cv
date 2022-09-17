@@ -475,7 +475,11 @@
         "finishDate": "2001-12-01",
         "institution": {
           "name": "Politeknika Ikastegia Txorierri ",
-          "URL": "http://www.txorierri.net/en/"
+          "URL": "http://www.txorierri.net/en/",
+          "image": {
+            "alt": "35560-201507150037.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/73287f39-6134-4848-b855-fb1688321b2b_35560-201507150037.png"
+          }
         }
       }
     ]

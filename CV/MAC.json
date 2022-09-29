@@ -366,7 +366,11 @@
         "details": {
           "name": "Connected Cokes",
           "description": "Iot proyect design.  \nI built the prototype to get 2 glasses connected when you poured Cocacola in one of them. ",
-          "URL": "https://cargocollective.com/antiagarcia/filter/digital/Connected-Cokes"
+          "URL": "https://cargocollective.com/antiagarcia/filter/digital/Connected-Cokes",
+          "image": {
+            "alt": "Screenshot from 2022-09-29 12-59-31.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/29/39fba768-2abb-441c-913b-c4f52a7e3aed_screenshot-from-2022.png"
+          }
         },
         "type": "openSource",
         "roles": [

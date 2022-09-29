@@ -360,6 +360,33 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Connected Cokes",
+          "description": "Iot proyect design.  \nI built the prototype to get 2 glasses connected when you poured Cocacola in one of them. ",
+          "URL": "https://cargocollective.com/antiagarcia/filter/digital/Connected-Cokes"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-07-01",
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Arduino",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

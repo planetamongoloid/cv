@@ -1,14 +1,15 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Alexander",
       "surnames": "Lopez Zabala",
-      "description": "After years of developing web and interactive applications y decided to get the route of SRE/Devops",
+      "title": "",
+      "description": "",
       "avatar": {
         "alt": "al-removebg-preview.png",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/2e102fec-b6a0-4964-a04b-3f511d8396cb_al-removebg-preview.png"
@@ -16,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "País Vasco",
-        "municipality": "Bilbao"
+        "municipality": "Bilbao",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -41,6 +43,11 @@
           {
             "name": "SRE / Devops Engineer",
             "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "AWS",
@@ -112,6 +119,11 @@
             "name": "Senior Backend Developer",
             "startDate": "2018-11-01",
             "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "CakePHP",
@@ -356,7 +368,12 @@
           {
             "name": "Electronic technician",
             "startDate": "2002-01-01",
-            "finishDate": "2002-10-01"
+            "finishDate": "2002-10-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ]
           }
         ]
       }
@@ -396,13 +413,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Basque"
+        "name": "Basque",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -481,6 +501,7 @@
         "startDate": "2001-01-01",
         "institution": {
           "name": "University of Cambridge",
+          "description": "",
           "image": {
             "alt": "1519856098280.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/d40ed05a-927e-486a-8298-ca99a9b6309c_1519856098280.jpeg"
@@ -495,6 +516,7 @@
         "finishDate": "2007-12-01",
         "institution": {
           "name": "University of Deusto",
+          "description": "",
           "URL": "https://www.deusto.es",
           "image": {
             "alt": "Screenshot from 2022-09-17 12-56-17.png",
@@ -510,6 +532,7 @@
         "finishDate": "2001-12-01",
         "institution": {
           "name": "Politeknika Ikastegia Txorierri ",
+          "description": "",
           "URL": "http://www.txorierri.net/en/",
           "image": {
             "alt": "35560-201507150037.png",
@@ -542,7 +565,11 @@
           "name": "Kubernetes",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "DevOps & Infrastructure & SRE"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }

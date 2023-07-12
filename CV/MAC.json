@@ -464,6 +464,12 @@
       },
       {
         "skill": {
+          "name": "Helm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jenkins",
           "type": "technology"
         }

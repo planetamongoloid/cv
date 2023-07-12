@@ -497,6 +497,12 @@
           "name": "Python",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Terraform",
+          "type": "technology"
+        }
       }
     ],
     "studies": [

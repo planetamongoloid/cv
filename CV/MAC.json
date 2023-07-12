@@ -1,41 +1,61 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Alexander",
       "surnames": "Lopez Zabala",
-      "title": "",
-      "description": "",
+      "title": "Title",
       "avatar": {
-        "alt": "al-removebg-preview.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/2e102fec-b6a0-4964-a04b-3f511d8396cb_al-removebg-preview.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/2e102fec-b6a0-4964-a04b-3f511d8396cb_al-removebg-preview.png",
+        "alt": "al-removebg-preview.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJuYlLZidOTg0RRaaVHsSsNGU)",
         "country": "España",
         "region": "País Vasco",
-        "municipality": "Bilbao",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Bilbao"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/alexander-lopez-zabala-171a57141/"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
       {
         "organization": {
+          "name": "GFT Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/12/c32da286-d687-4879-a917-ea4a1213dc61_gftp.jpeg",
+            "alt": "gftp.jpeg"
+          },
+          "URL": "https://www.gft.com/es/es/"
+        },
+        "roles": [
+          {
+            "name": "Platform Engineer",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-04-01",
+            "competences": [
+              {
+                "name": "Google Cloud",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Irontec",
           "image": {
-            "alt": "irontec-logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/12cfcba1-4865-4c0f-9f53-4836aca3f304_irontec-logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/12cfcba1-4865-4c0f-9f53-4836aca3f304_irontec-logo.jpg",
+            "alt": "irontec-logo.jpg"
           },
           "URL": "https://www.irontec.com/"
         },
@@ -43,11 +63,6 @@
           {
             "name": "SRE / Devops Engineer",
             "startDate": "2020-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "AWS",
@@ -109,8 +124,8 @@
         "organization": {
           "name": "Irontec",
           "image": {
-            "alt": "irontec-logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/86cadba0-8896-442f-8a13-e68caf63b09c_irontec-logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/86cadba0-8896-442f-8a13-e68caf63b09c_irontec-logo.jpg",
+            "alt": "irontec-logo.jpg"
           },
           "URL": "https://www.irontec.com/"
         },
@@ -119,11 +134,6 @@
             "name": "Senior Backend Developer",
             "startDate": "2018-11-01",
             "finishDate": "2020-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "CakePHP",
@@ -157,8 +167,8 @@
         "organization": {
           "name": "Andtonic SL",
           "image": {
-            "alt": "logo-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/a14b55c4-ea0b-4eac-b8a3-0a98801ac809_logo-1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/15/a14b55c4-ea0b-4eac-b8a3-0a98801ac809_logo-1.png",
+            "alt": "logo-1.png"
           },
           "URL": "https://www.andtonic.es"
         },
@@ -229,7 +239,7 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -272,8 +282,8 @@
         "organization": {
           "name": "Waskman diseño",
           "image": {
-            "alt": "Screenshot from 2022-09-17 12-51-18.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/25cec077-9ddb-4391-a66e-048130be51e4_screenshot-from-2022.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/25cec077-9ddb-4391-a66e-048130be51e4_screenshot-from-2022.png",
+            "alt": "Screenshot from 2022-09-17 12-51-18.png"
           },
           "URL": "http://www.waskman.com/"
         },
@@ -297,11 +307,11 @@
                 "type": "technology"
               },
               {
-                "name": "Firebase",
+                "name": "Git",
                 "type": "technology"
               },
               {
-                "name": "Git",
+                "name": "Google Firebase",
                 "type": "technology"
               },
               {
@@ -359,8 +369,8 @@
         "organization": {
           "name": "Ziv Automation",
           "image": {
-            "alt": "ziv-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/ae326f5d-643c-48d3-948e-68c2770a7a74_ziv-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/ae326f5d-643c-48d3-948e-68c2770a7a74_ziv-logo.png",
+            "alt": "ziv-logo.png"
           },
           "URL": "https://zivautomation.com"
         },
@@ -368,12 +378,7 @@
           {
             "name": "Electronic technician",
             "startDate": "2002-01-01",
-            "finishDate": "2002-10-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ]
+            "finishDate": "2002-10-01"
           }
         ]
       }
@@ -385,8 +390,8 @@
           "description": "Iot proyect design.  \nI built the prototype to get 2 glasses connected when you poured Cocacola in one of them. ",
           "URL": "https://cargocollective.com/antiagarcia/filter/digital/Connected-Cokes",
           "image": {
-            "alt": "Screenshot from 2022-09-29 12-59-31.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/29/39fba768-2abb-441c-913b-c4f52a7e3aed_screenshot-from-2022.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/29/39fba768-2abb-441c-913b-c4f52a7e3aed_screenshot-from-2022.png",
+            "alt": "Screenshot from 2022-09-29 12-59-31.png"
           }
         },
         "type": "openSource",
@@ -394,7 +399,6 @@
           {
             "name": "Developer",
             "startDate": "2018-01-01",
-            "finishDate": "2018-07-01",
             "competences": [
               {
                 "name": "API",
@@ -404,7 +408,8 @@
                 "name": "Arduino",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2018-07-01"
           }
         ]
       }
@@ -413,34 +418,28 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
-        "level": "Native or bilingual proficiency"
-      },
-      {
-        "name": "English",
+        "name": "EN",
         "level": "Full professional proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "Arduino",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -452,25 +451,7 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Arduino",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
+          "name": "Git",
           "type": "technology"
         }
       },
@@ -482,13 +463,37 @@
       },
       {
         "skill": {
-          "name": "Git",
+          "name": "Jenkins",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Jenkins",
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -501,10 +506,9 @@
         "startDate": "2001-01-01",
         "institution": {
           "name": "University of Cambridge",
-          "description": "",
           "image": {
-            "alt": "1519856098280.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/d40ed05a-927e-486a-8298-ca99a9b6309c_1519856098280.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/d40ed05a-927e-486a-8298-ca99a9b6309c_1519856098280.jpeg",
+            "alt": "1519856098280.jpeg"
           }
         }
       },
@@ -513,31 +517,49 @@
         "degreeAchieved": true,
         "name": "Computer Network engineering",
         "startDate": "2003-01-01",
-        "finishDate": "2007-12-01",
         "institution": {
           "name": "University of Deusto",
-          "description": "",
           "URL": "https://www.deusto.es",
           "image": {
-            "alt": "Screenshot from 2022-09-17 12-56-17.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/a94d0aa7-3e1b-47c8-942b-b7603f45d880_screenshot-from-2022.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/a94d0aa7-3e1b-47c8-942b-b7603f45d880_screenshot-from-2022.png",
+            "alt": "Screenshot from 2022-09-17 12-56-17.png"
           }
-        }
+        },
+        "finishDate": "2007-12-01"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher technical diploma, Telecommunication and Computer Systems",
         "startDate": "1999-01-01",
-        "finishDate": "2001-12-01",
         "institution": {
           "name": "Politeknika Ikastegia Txorierri ",
-          "description": "",
           "URL": "http://www.txorierri.net/en/",
           "image": {
-            "alt": "35560-201507150037.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/73287f39-6134-4848-b855-fb1688321b2b_35560-201507150037.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/17/73287f39-6134-4848-b855-fb1688321b2b_35560-201507150037.png",
+            "alt": "35560-201507150037.png"
           }
+        },
+        "finishDate": "2001-12-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Good intercultural communication",
+          "type": "practice"
         }
       }
     ]
@@ -546,8 +568,17 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/alexander-lopez-zabala-171a57141/"
+          "URL": "https://www.linkedin.com/in/alexander-lopez-zabala-171a57141/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "alex_lz@proton.me"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "615733328",
+          "countryCode": "+34"
         }
       ]
     },
@@ -571,5 +602,13 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "I would like it to be a job where there is a team, so I can learn from my colleagues and I can teach them too. ",
+    "projects": [
+      {
+        "name": "Connected Cokes"
+      }
+    ]
   }
 }

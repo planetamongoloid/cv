@@ -434,6 +434,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Arduino",
           "type": "technology"
         }
@@ -620,6 +626,14 @@
     "mainStackTechs": [
       {
         "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
         "type": "technology"
       }
     ],

@@ -614,10 +614,6 @@
           "type": "technology"
         },
         {
-          "name": "GitLab",
-          "type": "technology"
-        },
-        {
           "name": "Kubernetes",
           "type": "technology"
         }
@@ -632,6 +628,10 @@
     "mainStackTechs": [
       {
         "name": "Docker",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
         "type": "technology"
       },
       {

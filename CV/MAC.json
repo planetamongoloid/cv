@@ -616,6 +616,10 @@
         {
           "name": "Kubernetes",
           "type": "technology"
+        },
+        {
+          "name": "Terraform",
+          "type": "technology"
         }
       ],
       "preferredRoles": [

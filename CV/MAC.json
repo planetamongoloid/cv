@@ -641,6 +641,10 @@
       {
         "name": "Linux",
         "type": "technology"
+      },
+      {
+        "name": "Terraform",
+        "type": "technology"
       }
     ],
     "desiredJobDescription": "I would like it to be a job where there is a team, so I can learn from my colleagues and I can teach them too. ",

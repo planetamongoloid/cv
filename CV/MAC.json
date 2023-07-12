@@ -470,6 +470,12 @@
       },
       {
         "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Helm",
           "type": "technology"
         }

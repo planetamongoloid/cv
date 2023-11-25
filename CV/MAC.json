@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "EN",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -20,7 +20,13 @@
         "region": "País Vasco",
         "municipality": "Bilbao"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alexander-lopez-zabala-171a57141/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -37,7 +43,7 @@
           {
             "name": "Platform Engineer",
             "startDate": "2022-10-01",
-            "finishDate": "2023-04-01",
+            "finishDate": "2023-01-01",
             "competences": [
               {
                 "name": "Google Cloud",
@@ -421,14 +427,17 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EU",
+        "fullName": "Euskera",
         "level": "Native or bilingual proficiency"
       }
     ],

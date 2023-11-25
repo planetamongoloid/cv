@@ -32,6 +32,36 @@
     "jobs": [
       {
         "organization": {
+          "name": "Nextail",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/25/f7ca28b3-dceb-46fd-95d9-abc4dd4ea026_logo.svg",
+            "alt": "logo.svg"
+          },
+          "URL": "https://nextail.co/"
+        },
+        "roles": [
+          {
+            "name": "Platform Engineer",
+            "startDate": "2023-02-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "CircleCI",
+                "type": "technology"
+              },
+              {
+                "name": "Terraform",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "GFT Technologies",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/07/12/c32da286-d687-4879-a917-ea4a1213dc61_gftp.jpeg",

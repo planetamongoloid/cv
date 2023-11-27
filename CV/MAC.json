@@ -49,7 +49,15 @@
                 "type": "technology"
               },
               {
+                "name": "Bash",
+                "type": "technology"
+              },
+              {
                 "name": "CircleCI",
+                "type": "technology"
+              },
+              {
+                "name": "Kubernetes",
                 "type": "technology"
               },
               {

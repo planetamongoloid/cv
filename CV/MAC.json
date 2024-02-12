@@ -139,10 +139,6 @@
                 "type": "technology"
               },
               {
-                "name": "K8s",
-                "type": "technology"
-              },
-              {
                 "name": "Kubernetes",
                 "type": "technology"
               },
@@ -647,12 +643,6 @@
       ],
       "contactMails": [
         "alex_lz@proton.me"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "615733328",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -674,7 +664,7 @@
         "DevOps & Infrastructure & SRE"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
   },
   "manfredSpecificData": {
     "mainStackTechs": [
